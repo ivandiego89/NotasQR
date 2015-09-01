@@ -4,7 +4,6 @@ if (!defined('BASEPATH')) {
     exit('No direct script access allowed');
 }
 
-/*diego*/
 
 class Alumnos extends CI_Controller
 {
